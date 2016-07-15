@@ -340,6 +340,7 @@ For a list of free machine learning books available for download, go [here](http
 
 #### Speech Recognition
 * [CMU Sphinx](http://cmusphinx.sourceforge.net/) - Open Source Toolkit For Speech Recognition purely based on Java speech recognition library.
+* [Kaldi](http://kaldi-asr.org/doc/index.html/) - Toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. 
 
 <a name="java-data-analysis" />
 #### Data Analysis / Data Visualization
